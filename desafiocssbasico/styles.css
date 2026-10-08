@@ -1,0 +1,66 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+header{
+    margin-top: 47px;
+    margin-left: 32px;
+}
+
+.header-link{
+    margin-right: 32px;
+    font-weight: 400;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.button-header{
+    width: 124px;
+    height: 51px;
+    background: #6FBF44;
+    color: #ffffff;
+    border: 1px;
+    border-color: #4cb538;
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.logo-image {
+    width: 595.18px;
+    height: 500px;
+    margin-left: 121px;
+    margin-top: 246px;
+    display: inline-block;
+}
+
+section{
+    display: inline-block;
+    margin-left: 84px;
+}
+
+h1{
+    font-weight: 700;
+    font-size: 62px;
+    width: 582px;
+    color: #161A49;
+}
+
+p{
+    font-weight: 400;
+    font-size: 18px;
+    color: #4B505A;
+    width: 493px;
+    margin-top: 32px;
+}
+
+.button-main{
+    background: none;
+    color: #6FBF44;
+    font-weight: 500;
+    font-size: 18px;
+    margin-top: 32px;
+    border: none;
+    cursor: pointer;
+}
